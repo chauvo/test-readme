@@ -4,7 +4,7 @@ Story [685 - Scope out international landing page redirect for www.clistudios.co
 
 Put this snippet any page on SquareSpace to run the redirect.
 
-```javascript
+```html
 <script>
   const xhr = new XMLHttpRequest();
   const internationalLandingPage = 'https://members.clistudios.com/international';
