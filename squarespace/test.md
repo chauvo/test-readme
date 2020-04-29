@@ -166,6 +166,7 @@ Put this snippet at the top of SquareSpace page.
 - **Button**
 
 Put this snippet at anywhere of the SquareSpace page above that you want to show the button.
+
 Remember changing the button id if you have more than 1 button in a page.
 
 ```html
