@@ -3,6 +3,7 @@
 Story [727 - As a studio owner I want to be able to register for a CLI Studios account on www.clistudios.com](https://www.pivotaltracker.com/story/show/171913727)
 
 - Modal
+
 Put this snippet at the top of SquareSpace page.
 
 ```html
@@ -161,6 +162,7 @@ Put this snippet at the top of SquareSpace page.
 ```
 
 - Button
+
 Put this snippet at anywhere of the SquareSpace page above that you want to show the button
 
 ```html
